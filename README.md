@@ -3,4 +3,4 @@ This repo is for me to learn github markdown from Andrew Brown. Nice
 
 ## Jesus is Lord
 
-Thanks baba
+Thanks baba **God**. I am so *happy for this training joor* 
